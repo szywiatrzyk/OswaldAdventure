@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - falldetector
+  - enemycolider
+  - checkpoint
+  - hp_up
+  - endscene
+  - panelwin
+  - death
+  - enemy
+  - coin
+  - loadingscreen
+  - gameoverscreen
+  - platform
+  - spikes
+  - beam
+  - BossHP
+  - HUD
+  - Pause
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PLAYER
+  - GROUND
+  - background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 879589797
+    locked: 0
+  - name: player
+    uniqueID: 1488481669
+    locked: 0
